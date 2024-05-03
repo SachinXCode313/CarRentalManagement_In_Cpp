@@ -1,0 +1,7 @@
+Specification : 
+
+Range           -   244 miles
+Max Power       -   251hp,5000rpm        291hp,8500rpm
+Battery type    -   Lithium-ion (Li-ion)
+Body type       -   Roadster
+Number of seats -   2

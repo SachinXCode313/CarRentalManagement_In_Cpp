@@ -1,0 +1,7 @@
+Specification : 
+
+Range           -   300 miles
+Max Power       -   179hp, 6000rpm
+Battery type    -   Lithium-ion (Li-ion)
+Body type       -   Sport Utility
+Number of seats -   5

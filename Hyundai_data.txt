@@ -1,0 +1,7 @@
+Specification : 
+
+Range           -   195 miles
+Max Power       -   98hp, 6000rpm
+Battery type    -   Lithium-ion (Li-ion)
+Body type       -   Hatchback
+Number of seats -   4
